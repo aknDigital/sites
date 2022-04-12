@@ -1,0 +1,72 @@
+body {
+    font-size: 20px;
+    color: ghostwhite;
+    background-color: rgba(0, 0, 0, 0.808);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ header img{
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid white;
+    
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.center { /* mesmo sendo imagem o ajuste tem que ser feito como text */
+    text-align: center;
+}
+h1{
+    color: goldenrod;
+}
+footer img {
+    border-radius: 25%;
+    background-color:white;
+    width: 40px;
+    height: 40px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+footer p{
+    margin-top: 2px;
+}
+.curso {
+    
+    text-align: center;
+    line-height: 2.5em;
+    
+
+}
+
+.container {
+    padding: 0px 50px;
+}
+.Sobre {
+    
+    text-align: justify;  
+    line-height: 1.5em;  
+}
+.center h2{
+    text-shadow: 1px 1px 1px red; 
+
+}
+.regras {
+    padding: 0px 50px;
+    font-size: 1.0em;
+    display: flex;
+    justify-content: space-between; 
+     
+   
+}
+
+
+   
