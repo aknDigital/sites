@@ -63,6 +63,7 @@ footer p{
     padding: 0px 50px;
     font-size: 1.0em;
     display: flex;
+    flex-wrap:wrap;
     justify-content: space-between; 
      
    
